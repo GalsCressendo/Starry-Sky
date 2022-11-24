@@ -444,13 +444,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1063526359}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e0959aec75fdc34594334cd91a6618b, type: 3}
+  m_Script: {fileID: 11500000, guid: 917a6af9c96a3424a82b0f076a1ca179, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objects:
-  - {fileID: 4886063502260687706, guid: 34803e67af1234c4290e0bc9b223d81f, type: 3}
-  - {fileID: 4886063502260687706, guid: 30a95e50c06f8b74ba6e1f72f9a1e052, type: 3}
-  arCamera: {fileID: 237152587}
 --- !u!4 &1063526361
 Transform:
   m_ObjectHideFlags: 0
